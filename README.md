@@ -1,5 +1,4 @@
 # ANN-Based-Customer-Churn-Prediction-System-with-Salary-Regression
-📌 Project Description
 
 This project presents an ANN-based Customer Churn Prediction System designed to identify customers who are likely to leave a service, while also incorporating a salary regression model to support deeper customer analytics. The primary objective of the project is to leverage Artificial Neural Networks (ANN) to build an intelligent, data-driven solution that aids organizations in improving customer retention and decision-making.
 
